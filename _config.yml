@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Junhui Wang"
 title_separator          : "-"
-name                     : &name "Junhui Wang"
-description              : &description "personal description"
+name                     : &name 
+description              : &description 
 url                      : https://drjaywang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drjaywang.github.io"
