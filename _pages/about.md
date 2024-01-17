@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Contact Information
 ------
 [Department of Statistics](https://www.sta.cuhk.edu.hk/)<br>
