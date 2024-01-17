@@ -17,7 +17,7 @@ Email: junhuiwang AT cuhk DOT edu DOT hk
 
 Education
 ======
-* Ph.D. in Statistics, [University of Minnesota](http://www.umn.edu/) <br> 
+* Ph.D. in Statistics, [University of Minnesota](http://www.umn.edu/)  
 * B.S. in Probability and Statistics, [Peking University](http://www.pku.edu.cn/)
 
 Site-wide configuration
