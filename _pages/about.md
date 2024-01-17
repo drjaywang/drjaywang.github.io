@@ -31,9 +31,9 @@ Teaching
   
 Services
 ------
-* Panel Member, HK RGC Physical Sciences Panel (JRS), since 2022
-* Associate Editor, Journal of the American Statistical Association - T&M, since 2023
-* Associate Editor, Annals of Applied Statistics, since 2023
-* Associate Editor, Statistica Sinica, since 2020
-* Associate Editor, Annals of Institute of Statistical Mathematics, since 2018
-* Associate Editor, Statistics and Its Interface, since 2017
+* Panel Member, [HK RGC Physical Sciences Panel (JRS)](https://www.ugc.edu.hk/eng/rgc/about/membership/ppanel/jrs.html), since 2022
+* Associate Editor, [Journal of the American Statistical Association - T&M](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=uasa20&cookieSet=1), since 2023
+* Associate Editor, [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-editorial-board/), since 2023
+* Associate Editor, [Statistica Sinica](http://www3.stat.sinica.edu.tw/statistica/), since 2020
+* Associate Editor, [Annals of Institute of Statistical Mathematics](http://www.springer.com/statistics/journal/10463/PSE?detailsPage=editorialBoard), since 2018
+* Associate Editor, [Statistics and Its Interface](https://www.intlpress.com/site/pub/pages/journals/items/sii/_home/_main/index.php), since 2017
