@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Junhui Wang
-======
-
 Contact Information
 ------
 [Department of Statistics](https://www.sta.cuhk.edu.hk/)<br>
