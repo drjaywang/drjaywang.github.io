@@ -11,7 +11,7 @@ redirect_from:
 Contact Information
 ======
 [Department of Statistics](https://www.sta.cuhk.edu.hk/)
-Chinese University of Hong Kong
+[Chinese University of Hong Kong](https://www.cuhk.edu.hk/)
 Office: LSB-126 | Phone: +852 3943 3167
 Email: junhuiwang AT cuhk DOT edu DOT hk
 
