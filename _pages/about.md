@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Contact Information
+Junhui Wang
 ======
+
+Contact Information
+------
 [Department of Statistics](https://www.sta.cuhk.edu.hk/)<br>
 [Chinese University of Hong Kong](https://www.cuhk.edu.hk/)<br>
 Office: LSB-126 | Phone: +852 3943 3167<br>
